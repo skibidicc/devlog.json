@@ -1,14 +1,28 @@
 {
-  "added": [
-      "-Who was affected? Keegstra and all of his students were affected by his anti semitic teachings",
-          "-What Were the events leading to this? These teachings caused complaints in the late 1970s, yet the school did nothing, keegstra was warned in 1981 and fired a year later",  
-              "-What section was violated? Section 2 (b) of the Canadian Charter Of Rights And Freedoms. This section is often referred to as the freedom of expression",
-                  "-When did the challenge take place? This challenge took place in 1990 and 1996.",
-                       "-Where did this occur? A public High School",
-                            "-Why was it necessary to Challenge the law? Keegstra felt his freedom of expresion was violated"
-  ],
-  "removed": [
-    "-How has the law changed because of the challenge, if at all?",
-       "  Law was not affected after the challenge"
-  ]
-}
+    "added": [
+        "- Melting point: 1445c",
+            "- Boiling point: 2913c",  
+                "- Density (g cm-3): 8.90",
+                    "- State at 20c: Solid"
+                         
+    ],
+    "removed": [
+      "- Malleable",
+         "- Ductile",
+         "- Corrosion resistance",
+         "- Good Strength"
+    ],
+
+    "reaction": [
+      "- Finely divided nickel metal reacts readily with air and in this form it may ignite",
+      "- Nickel metal dissolves slowly in dilute sulphuric acid",
+      "Nickel Chloride is forms when nickel and chlorine react together",
+      ""
+    ],
+
+    "citations": [
+      "https://www.britannica.com/science/nickel-chemical-element",
+      "https://en.wikipedia.org/wiki/Nickel"
+      
+    ]
+  }
