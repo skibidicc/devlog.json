@@ -1,21 +1,21 @@
 {
     "added": [
-        "- Melting point: 1445c",
-            "- Boiling point: 2913c",  
-                "- Density (g cm-3): 8.90",
-                    "- State at 20c: Solid"
+        "  Melting point: 1445c",
+            "  Boiling point: 2913c",  
+                "  Density (g cm-3): 8.90",
+                    "  State at 20c: Solid"
                          
     ],
     "removed": [
-      "- Malleable",
-         "- Ductile",
-         "- Corrosion resistance",
-         "- Good Strength"
+      "  Malleable",
+         "  Ductile",
+         "  Corrosion resistance",
+         "  Good Strength"
     ],
 
     "reaction": [
-      "- Finely divided nickel metal reacts readily with air and in this form it may ignite",
-      "- Nickel metal dissolves slowly in dilute sulphuric acid",
+      "  Finely divided nickel metal reacts readily with air and in this form it may ignite",
+      "  Nickel metal dissolves slowly in dilute sulphuric acid",
       "Nickel Chloride is forms when nickel and chlorine react together",
       ""
     ],
